@@ -9,4 +9,5 @@ require_once 'html_header.php';
     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
 </div>
 <?php
+require_once 'menu.php';
 require_once 'html_footer.php';
